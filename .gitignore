@@ -1,4 +1,3 @@
-mydata.npy
-mydata_100.npy
+*.npy
 
 .ipynb_checkpoints/*
