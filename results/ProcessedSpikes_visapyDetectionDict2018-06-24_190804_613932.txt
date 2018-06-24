@@ -1,0 +1,18 @@
+{'Advice': 'For more information about detection, load and look at the '
+           'parameters of the probe object',
+ 'Associated Results File': b'results/ProcessedSpikes_visapy',
+ 'Cutout Length': 50,
+ 'Date and Time Detection': '2018-06-24 19:08:04.613932',
+ 'Localization': True,
+ 'Masked Channels': None,
+ 'Neighbors File Path': b'/disk/scratch/s1769454/anaconda3/envs/dissertation/l'
+                        b'ib/python3.6/site-packages/herdingspikes-0.2-py3.6-l'
+                        b'inux-x86_64.egg/herdingspikes/probes/neighbormatrix_'
+                        b'hierlemann_visapy_emulation',
+ 'Positions File Path': b'/disk/scratch/s1769454/anaconda3/envs/dissertation/l'
+                        b'ib/python3.6/site-packages/herdingspikes-0.2-py3.6-l'
+                        b'inux-x86_64.egg/herdingspikes/probes/positions_hierl'
+                        b'emann_visapy_emulation',
+ 'Probe Name': 'HierlmannVisapyEmulationProbe',
+ 'Probe Object': <herdingspikes.probe.HierlmannVisapyEmulationProbe object at 0x7fd46242a5c0>,
+ 'Threshold': 12}
