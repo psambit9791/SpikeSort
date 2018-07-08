@@ -3,5 +3,6 @@
 .ipynb_checkpoints/*
 
 results/
-
+frames_1/
+frames/
 *.bin
