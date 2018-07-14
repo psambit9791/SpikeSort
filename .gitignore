@@ -2,7 +2,10 @@
 
 .ipynb_checkpoints/*
 
+models/
 results/
 frames_1/
 frames/
+frames_prev/
+frames_attention/
 *.bin
