@@ -12,3 +12,4 @@ frames_attention/
 frame*
 *.h5
 *.gdf
+*.png
