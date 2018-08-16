@@ -8,7 +8,5 @@ frames/
 frames_prev/
 frames_attention/
 *.bin
-frame*
 *.h5
 *.gdf
-*.png
